@@ -1,1 +1,4 @@
-{ "passwordHash": "$2b$10$bocH3knJMbtzBCVTx0PFGuJzB5NM9ipE7jl88RSf9xfHaB5JGVW9m" }
+{
+  "userHashedPassword": "$2b$10$newHashedPasswordForUsersHere",
+  "adminHashedPassword": "$2b$10$newHashedPasswordForAdminsHere"
+}
